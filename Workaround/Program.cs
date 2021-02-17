@@ -16,7 +16,6 @@ namespace Workaround
             //Topla(5,7);
             //Topla();
 
-
             Person person1 = new Person();
             person1.FirstName = "Salih";
             person1.LastName = "Gül";
